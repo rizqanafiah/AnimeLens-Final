@@ -1,14 +1,9 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/rizqanafiah/AnimeLens-Final">
-    <img src="https://unsee.cc/album#uBhWhI42QNkz" width='400dp' alt="Logo" >
+    <img src="https://i.imgur.com/91j8F9a.jpeg" width='400dp' alt="Logo" >
   </a>
 
   <h3 align="center">AnimeLens</h3>
