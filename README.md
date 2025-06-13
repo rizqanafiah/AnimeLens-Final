@@ -129,7 +129,6 @@ https://drive.google.com/drive/folders/1UC9gmzoZDn_FNN8kbqc3eePJ4bOR4kyH?usp=sha
   # Preview production build
   npm run preview
   ```
-    ```
 
 
 <!-- CONTRIBUTING -->
